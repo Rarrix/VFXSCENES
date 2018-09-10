@@ -2,6 +2,7 @@ WindowsStandalone
 PlayerPath?
 C:/Users/Rarrix/Desktop/Scneen/partuckes.exe
 SceneListBegin?
+Assets/Scenes/drill.unity
 Assets/Scenes/820.unity
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
