@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/drill.unity
+- path: Assets/Scenes/aamu/aamu.unity
   isLoaded: 1
   isActive: 1

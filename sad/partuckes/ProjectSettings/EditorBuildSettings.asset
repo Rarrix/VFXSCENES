@@ -6,12 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/drill.unity
-    guid: 6bd13834916a34f43a94edfee96a9103
-  - enabled: 1
-    path: Assets/Scenes/820.unity
-    guid: 2f841273740cdb94597038e03a1744ab
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/aamu/aamu.unity
+    guid: 18002604c1acea745a18a76cf4ace5ca
   m_configObjects: {}
