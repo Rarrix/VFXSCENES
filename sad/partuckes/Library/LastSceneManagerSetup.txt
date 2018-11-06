@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/aamu/aamu.unity
+- path: Assets/Scenes/poisonous/poisonous.unity
   isLoaded: 1
   isActive: 1
