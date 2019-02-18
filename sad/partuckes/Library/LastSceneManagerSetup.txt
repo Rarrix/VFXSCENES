@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/poisonous/poisonous.unity
+- path: Assets/Scenes/uff.unity
   isLoaded: 1
   isActive: 1
